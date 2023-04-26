@@ -1,2 +1,2 @@
 # Time Series Forecasting
- Exploring time series forecasting in python
+This repository explores statistical and deep learning models that can be used for time series forecasting.
